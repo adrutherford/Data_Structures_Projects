@@ -3,7 +3,7 @@
  Email: adrutherford@crimson.ua.edu
  Course Section: Fall 2023 CS 201
  Homework #: 1
- Instructions to Compile: g++ hw1.cpp
+ Instructions to Compile: g++ heapsort_quicksort.cpp
  Instructions to Execute: ./a.exe 
 */
 #include <iostream> 
