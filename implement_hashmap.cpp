@@ -3,7 +3,7 @@
  Email: adrutherford@crimson.ua.edu
  Course Section: Fall 2023 CS 201
  Homework #: 3
- Instructions to Compile: g++ hw3.cpp
+ Instructions to Compile: g++ implement_hashmap.cpp
  Instructions to Execute: ./a.exe inputFilename queryFilename
 */
 #include <iostream>
