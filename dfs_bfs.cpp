@@ -3,7 +3,7 @@
 // Email: adrutherford@crimson.ua.edu
 // Course Section: Fall 2023 CS 201
 // Homework #: 4
-// To compile: g++ -Wall -std=c++20 hw4.cpp
+// To compile: g++ -Wall -std=c++20 dfs_bfs.cpp
 // To run: ./a.out input1.txt
 //         ./a.out input2.txt
 
